@@ -1,0 +1,13 @@
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\bin\Debug\netcoreapp3.1\2-UC03.exe
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\bin\Debug\netcoreapp3.1\2-UC03.deps.json
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\bin\Debug\netcoreapp3.1\2-UC03.runtimeconfig.json
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\bin\Debug\netcoreapp3.1\2-UC03.runtimeconfig.dev.json
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\bin\Debug\netcoreapp3.1\2-UC03.dll
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\bin\Debug\netcoreapp3.1\2-UC03.pdb
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\obj\Debug\netcoreapp3.1\2-UC03.csprojAssemblyReference.cache
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\obj\Debug\netcoreapp3.1\2-UC03.AssemblyInfoInputs.cache
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\obj\Debug\netcoreapp3.1\2-UC03.AssemblyInfo.cs
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\obj\Debug\netcoreapp3.1\2-UC03.csproj.CoreCompileInputs.cache
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\obj\Debug\netcoreapp3.1\2-UC03.dll
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\obj\Debug\netcoreapp3.1\2-UC03.pdb
+C:\Users\Cleoberto\Desktop\Projetos\2-UC03\obj\Debug\netcoreapp3.1\2-UC03.genruntimeconfig.cache
