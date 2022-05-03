@@ -1,7 +1,10 @@
-# 2-UC03
+# Atividade
 Atividade curso 
 
-
-# ìcones
-
-:up: atulizações
+# Ìcones
+- :package: new functions
+- :balloon: finished project
+- :up: Updates
+- :school_satchel: initial commit
+- :beetle: bug fix
+- :checkered_flag: release
